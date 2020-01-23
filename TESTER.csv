@@ -1,0 +1,11 @@
+Film,country of origin,Big star,Genre,Success
+1,USA,yes,SF,TRUE
+2,USA,no,Com,FALSE
+3,USA,yes,Com,TRUE
+4,EU,no,Com,TRUE
+5,EU,yes,SF,FALSE
+6,EU,yes,Ro,FALSE
+7,RW,yes,Com,FALSE
+8,RW,no,SF,FALSE
+9,EU,yes,Com,TRUE
+10,USA,yes,Com,TRUE
